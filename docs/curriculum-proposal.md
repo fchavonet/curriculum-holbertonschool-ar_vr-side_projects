@@ -18,7 +18,7 @@ While the specialization already introduces important technical concepts related
 
 The repository is designed as a practical and progressive learning environment focused on production-oriented skills and real-world project presentation.
 
-Students are encouraged to publish their work on platforms such as Itch.io and GitHub in order to progressively build a professional portfolio throughout the specialization.
+Students are encouraged to publish their work on platforms such as [Itch.io](https://itch.io/) and GitHub in order to progressively build a professional portfolio throughout the specialization.
 
 ## Educational approach
 
@@ -50,31 +50,31 @@ At the end of the specialization, students should not only understand technical 
 
 Short gameplay-focused platformer prototype centered around movement, collisions and level design.
 
-[Project documentation](./projects/001-2d_platformer.md)
+<p align="right"><a href="./projects/001-2d_platformer.md">PROJECT DOCUMENTATION</a>
 
 ### 2. 2D top-Down shooter (twin-stick shooter)
 
 Fast-paced arcade shooter focused on gameplay responsiveness, enemy systems and visual feedback.
 
-[Project documentation](./projects/002-topdown-shooter.md)
+<p align="right"><a href="./projects/002-topdown-shooter.md">PROJECT DOCUMENTATION</a>
 
 ### 3. 3D infinite runner (mobile oriented)
 
 Mobile-oriented endless runner prototype focused on procedural systems and optimization.
 
-[Project documentation](./projects/003-infinite-runner.md)
+<p align="right"><a href="./projects/003-infinite-runner.md">PROJECT DOCUMENTATION</a>
 
 ### 4. 3D FPS aim trainer
 
 First-person gameplay prototype focused on precision shooting systems, raycasting and player metrics.
 
-[Project documentation](./projects/004-fps-aim-trainer.md)
+<p align="right"><a href="./projects/004-fps-aim-trainer.md">PROJECT DOCUMENTATION</a>
 
 ### 5. 3D traversal / parkour sandbox
 
 Advanced movement sandbox focused on traversal mechanics, verticality and gameplay fluidity.
 
-[Project documentation](./projects/005-traversal-sandbox.md)
+<p align="right"><a href="./projects/005-traversal-sandbox.md">PROJECT DOCUMENTATION</a>
 
 ## Technical stack
 
