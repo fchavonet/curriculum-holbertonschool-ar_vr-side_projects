@@ -10,6 +10,12 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="style.css">
+
+    <!-- BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
 </head>
 
 <body>
@@ -36,44 +42,44 @@
     <main>
         <!-- HERO SECTION -->
         <section id="hero-section">
-            <h1>AR/VR : side projects</h1>
-            <span class="eyebrow">Curriculum Holberton School</span>
+            <h1 data-aos="fade-right">AR/VR : side projects</h1>
+            <span class="eyebrow" data-aos="fade-left">Curriculum Holberton School</span>
 
-            <p>
+            <p data-aos="fade-right">
                 A collection of small, polished gameplay prototypes designed to help students strengthen their technical skills and build a professional portfolio.
             </p>
 
             <div class="buttons-container">
-                <a class="button primary" href="#projects-section">View projects</a>
-                <a class="button secondary" href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/curriculum-proposal.md" target="_blank" rel="noopener noreferrer">Curriculum proposal</a>
+                <a class="button primary" href="#projects-section" data-aos="fade-up" data-aos-delay="0">View projects</a>
+                <a class="button secondary" href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/curriculum-proposal.md" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="100">Curriculum proposal</a>
             </div>
         </section>
 
         <!-- CONTEXT SECTION -->
         <section id="context-section">
-            <h2>Context</h2>
+            <h2 data-aos="fade-right">Context</h2>
 
-            <p>
+            <p data-aos="fade-left">
                 These projects complement the official AR/VR curriculum by giving students more opportunities to practice gameplay programming, project organization, game feel, interaction design and portfolio presentation.
             </p>
 
             <div class="grid">
-                <article class="card">
-                    <h3>Learning by building</h3>
+                <article class="card" data-aos="fade-up" data-aos-delay="0">
+                    <h3><i class="bi bi-tools"></i> Learning by building</h3>
 
                     <p> Students work on focused vertical slices rather than large games. Each prototype targets specific gameplay and production skills.</p>
                 </article>
 
-                <article class="card">
-                    <h3>Portfolio-oriented</h3>
+                <article class="card" data-aos="fade-up" data-aos-delay="100">
+                    <h3><i class="bi bi-person-workspace"></i> Portfolio-oriented</h3>
 
                     <p>
                         Every project should be clean, playable and properly documented on <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a>, published through a polished <a href="https://itch.io/" target="_blank" rel="noopener noreferrer">Itch.io</a> page and promoted professionally with a dedicated <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a> post.
                     </p>
                 </article>
 
-                <article class="card">
-                    <h3>Professional habits</h3>
+                <article class="card" data-aos="fade-up" data-aos-delay="200">
+                    <h3><i class="bi bi-briefcase"></i> Professional habits</h3>
 
                     <p>
                         Students progressively adopt structured repositories, readable code, clear documentation and professional presentation workflows.
@@ -82,115 +88,137 @@
             </div>
 
             <div id="logos-container">
-                <img src="./assets/images/logos/unity.webp" alt="Unity logo">
-                <img src="./assets/images/logos/c.webp" alt="C# logo">
+                <img src="./assets/images/logos/unity.webp" alt="Unity logo" data-aos="fade-up" data-aos-delay="0">
+                <img src="./assets/images/logos/c.webp" alt="C# logo" data-aos="fade-up" data-aos-delay="100">
+                <img src="./assets/images/logos/git.webp" alt="Git logo" data-aos="fade-up" data-aos-delay="100">
+                <img src="./assets/images/logos/github.webp" alt="GitHub logo" data-aos="fade-up" data-aos-delay="100">
+                <img src="./assets/images/logos/blender.webp" alt="Blender logo" data-aos="fade-up" data-aos-delay="100">
             </div>
         </section>
 
         <!-- PROJECTS SECTION -->
         <section id="projects-section">
-            <h2>Projects</h2>
+            <h2 data-aos="fade-right">Projects</h2>
 
             <div class="grid">
-                <article class="card">
+                <article class="card" data-aos="fade-up" data-aos-delay="0">
                     <img src="./assets/images/illustrations/2d_platformer.webp" alt="2D Platformer project illustration">
 
                     <div class="card-info-container">
-                        <h3>2D Platformer</h3>
+                        <h3><i class="bi bi-joystick"></i> 2D Platformer</h3>
 
                         <p>
                             Short gameplay-focused platformer prototype centered around movement, collisions and level design.
                         </p>
                     </div>
-                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/001-2d_platformer.md" target="_blank" rel="noopener noreferrer">Documentation</a>
+                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/001-2d_platformer.md" target="_blank" rel="noopener noreferrer"><i class="bi bi-filetype-md"></i> Documentation</a>
                 </article>
 
-                <article class="card">
+                <article class="card" data-aos="fade-up" data-aos-delay="100">
                     <img src="./assets/images/illustrations/topdown_shooter.webp" alt="2D Top-Down Shooter project illustration">
 
                     <div class="card-info-container">
-                        <h3>2D Top-Down Shooter</h3>
+                        <h3><i class="bi bi-joystick"></i> 2D Top-Down Shooter</h3>
 
                         <p>
                             Fast-paced arcade shooter focused on gameplay responsiveness, enemy systems and visual feedback.
                         </p>
                     </div>
 
-                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/002-2d_topdown_shooter.md" target="_blank" rel="noopener noreferrer">Documentation</a>
+                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/002-2d_topdown_shooter.md" target="_blank" rel="noopener noreferrer"><i class="bi bi-filetype-md"></i> Documentation</a>
                 </article>
 
-                <article class="card">
+                <article class="card" data-aos="fade-up" data-aos-delay="200">
                     <img src="./assets/images/illustrations/infinite_runner.webp" alt="3D Infinite Runner project illustration">
 
                     <div class="card-info-container">
-                        <h3>3D Infinite Runner</h3>
+                        <h3><i class="bi bi-joystick"></i> 2D/3D Infinite Runner</h3>
 
                         <p>
                             Mobile-oriented endless runner prototype focused on procedural systems and optimization.
                         </p>
                     </div>
 
-                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/003-3d_infinite_runner.md" target="_blank" rel="noopener noreferrer">Documentation</a>
+                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/003-2d_3d_infinite_runner.md" target="_blank" rel="noopener noreferrer"><i class="bi bi-filetype-md"></i> Documentation</a>
                 </article>
 
-                <article class="card">
+                <article class="card" data-aos="fade-up" data-aos-delay="300">
                     <img src="./assets/images/illustrations/fps_aim_trainer.webp" alt="3D FPS Aim Trainer project illustration">
 
                     <div class="card-info-container">
-                        <h3>3D FPS Aim Trainer</h3>
+                        <h3><i class="bi bi-joystick"></i> 3D FPS Aim Trainer</h3>
 
                         <p>
                             First-person gameplay prototype focused on precision shooting systems, raycasting and player metrics.
                         </p>
                     </div>
 
-                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/004-3d_fps_aim_trainer.md" target="_blank" rel="noopener noreferrer">Documentation</a>
+                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/004-3d_fps_aim_trainer.md" target="_blank" rel="noopener noreferrer"><i class="bi bi-filetype-md"></i> Documentation</a>
                 </article>
 
-                <article class="card">
+                <article class="card" data-aos="fade-up" data-aos-delay="400">
                     <img src="./assets/images/illustrations/tps_sandbox.webp" alt="3D Traversal Sandbox project illustration">
 
                     <div class="card-info-container">
-                        <h3>3D TPS Sandbox</h3>
+                        <h3><i class="bi bi-joystick"></i> 3D TPS Sandbox</h3>
 
                         <p>
                             Advanced movement sandbox focused on traversal mechanics, verticality and gameplay fluidity.
                         </p>
                     </div>
 
-                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/005-3d_tps_sandbox.md" target="_blank" rel="noopener noreferrer">Documentation</a>
+                    <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects/blob/main/docs/projects/005-3d_tps_sandbox.md" target="_blank" rel="noopener noreferrer"><i class="bi bi-filetype-md"></i> Documentation</a>
                 </article>
             </div>
         </section>
 
         <!-- DELIVERABLES SECTION -->
         <section id="deliverables-section">
-            <h2>Deliverables</h2>
+            <h2 data-aos="fade-right">Deliverables</h2>
+
+            <p data-aos="fade-up">
+                These deliverables are an essential part of the learning process. They help students move beyond a simple prototype by documenting their work, presenting their technical choices and publishing a playable result that can be shared in a professional portfolio.
+            </p>
 
             <ul>
-                <li class="card"><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> repository</li>
-                <li class="card">README documentation</li>
-                <li class="card">Gameplay screenshots or videos</li>
-                <li class="card">Playable build</li>
-                <li class="card">Published <a href="https://itch.io/" target="_blank" rel="noopener noreferrer">Itch.io</a> page</li>
-                <li class="card"><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a> post to promote</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="0"></i><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"> </i>GitHub</a> repository</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="100">README documentation</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="200">Gameplay screenshots or videos</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="300">Playable build</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="400">Published <a href="https://itch.io/" target="_blank" rel="noopener noreferrer">Itch.io</a> page</li>
+                <li class="card" data-aos="fade-up" data-aos-delay="500"><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"></i> LinkedIn</a> post to promote</li>
             </ul>
         </section>
     </main>
 
     <footer>
-        <p>
-            Curriculum Holberton School - AR/VR : Side Projects
-        </p>
+        <div>
+            <p>
+                Curriculum Holberton School - AR/VR : Side Projects
+            </p>
 
-        <p>
-            © 2026 - Fabien Chavonet
-        </p>
+            <p>
+                © 2026 - Fabien Chavonet
+            </p>
 
-        <p>
-            All trademarks, logos and brand names are the property of their respective owners.
-        </p>
+            <p>
+                All trademarks, logos and brand names are the property of their respective owners.
+            </p>
+        </div>
+
+        <a href="https://github.com/fchavonet/curriculum-holbertonschool-ar_vr-side_projects" target="_blank" rel="noopener noreferrer"><img src="./assets/images/github.gif" alt="GitHub GIF"></a>
     </footer>
+
+    <!-- AOS SCRIPTS -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script defer>
+        AOS.init({
+            duration: 400,
+            easing: "ease-out",
+            once: true,
+            offset: 80
+        });
+    </script>
 </body>
 
 </html>

@@ -1,4 +1,4 @@
-# 2D top-Down shooter (twin-stick shooter)
+# 2D top-down shooter (twin-stick shooter)
 
 ## Description
 

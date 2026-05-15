@@ -58,11 +58,11 @@ Fast-paced arcade shooter focused on gameplay responsiveness, enemy systems and 
 
 <p align="right"><a href="./projects/002-2d_topdown_shooter.md">PROJECT DOCUMENTATION</a>
 
-### 3. 3D infinite runner (mobile oriented)
+### 3. 2D/3D infinite runner (mobile oriented)
 
 Mobile-oriented endless runner prototype focused on procedural systems and optimization.
 
-<p align="right"><a href="./projects/003-3d_infinite_runner.md">PROJECT DOCUMENTATION</a>
+<p align="right"><a href="./projects/003-2d_3d_infinite_runner.md">PROJECT DOCUMENTATION</a>
 
 ### 4. 3D FPS aim trainer
 
