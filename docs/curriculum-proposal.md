@@ -56,7 +56,7 @@ Short gameplay-focused platformer prototype centered around movement, collisions
 
 Fast-paced arcade shooter focused on gameplay responsiveness, enemy systems and visual feedback.
 
-<p align="right"><a href="./projects/002-topdown_shooter.md">PROJECT DOCUMENTATION</a>
+<p align="right"><a href="./projects/002-2d_topdown_shooter.md">PROJECT DOCUMENTATION</a>
 
 ### 3. 3D infinite runner (mobile oriented)
 
