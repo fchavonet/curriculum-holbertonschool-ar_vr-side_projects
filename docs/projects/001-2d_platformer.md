@@ -50,7 +50,7 @@ The goal is not to create a complete game, but to produce a polished and playabl
 
 #### Foundations of platformer design
 
-- [Super Mario Bros. (1985)]()
+- [Super Mario Bros. (1985)](https://www.youtube.com/watch?v=c_b9Yn34pdI)
 ![Super Mario Bros. screenshot](../../assets/images/2d_platformer/inspiration/super_mario_bros.webp)
 
     - Simple and readable level design.
@@ -59,7 +59,7 @@ The goal is not to create a complete game, but to produce a polished and playabl
 
 #### Evolution of gameplay & presentation
 
-- [Rayman Origins (2011)]()
+- [Rayman Origins (2011)](https://www.youtube.com/watch?v=MvhwWXF-LfU)
 ![Rayman Origins screenshot](../../assets/images/2d_platformer/inspiration/rayman_origins.webp)
 
   - Fluid animation systems.
@@ -68,7 +68,7 @@ The goal is not to create a complete game, but to produce a polished and playabl
 
 #### Modern platformer polish
 
-- [Ori And The Will Of The Wisps (2020)]()
+- [Ori And The Will Of The Wisps (2020)](https://www.youtube.com/watch?v=PPysLrr91Fk)
 ![Ori And The Will Of The Wisps screenshot](../../assets/images/2d_platformer/inspiration/ori_and_the_will_of_the_wisps.webp)
 
   - Advanced movement systems.

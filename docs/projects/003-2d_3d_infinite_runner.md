@@ -48,8 +48,8 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 
 #### Endless runner foundations
 
-- [Temple Run (2011)]()
-![]()
+- [Temple Run (2011 -> Horizontal runner)](https://www.youtube.com/watch?v=TuGv1WIyUK4)
+![](../../assets/images/2d_3d_infinite_runner/inspiration/temple_run.webp)
 
     - Endless gameplay structure.
     - Mobile-oriented controls.
@@ -58,8 +58,8 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 
 #### 2D gameplay readability & progression systems
 
-- [Alto's Adventure (2015)]()
-![]()
+- [Alto's Adventure (2015 -> Vertical runner)](https://www.youtube.com/watch?v=jzvU3jOTL3s)
+![](../../assets/images/2d_3d_infinite_runner/inspiration/altos_adventure.webp)
 
     - Minimalist visual design.
     - Smooth gameplay pacing.
@@ -69,8 +69,8 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 
 #### Modern 3D mobile polish
 
-- [Crash Bandicoot: On the Run! (2021)]()
-![]()
+- [Crash Bandicoot: On the Run! (2021 -> Horizontal runner)](https://www.youtube.com/watch?v=eCFo_yrME8A&list=PLGtZwVE-T07t0rznG1uEer3bVwFdGGNm_)
+![](../../assets/images/2d_3d_infinite_runner/inspiration/crash_on_the_run!.webp)
 
     - Modern mobile presentation.
     - Dynamic environments.
@@ -87,11 +87,18 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 
 ### Tutorials
 
+- [2D endless runner](https://www.youtube.com/playlist?list=PLfX6C2dxVyLylMufxTi7DM9Vjlw5bff1c)
+- [How to make an endless runner in Unity](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKiR-IVN688Jo0BbOh4aV6Dt)
+- [How to make Dino Game in Unity](https://www.youtube.com/watch?v=UPvW8kYqxZk)
 - [Making an infinite runner like Canabalt in Unity](https://www.youtube.com/watch?v=yshKlol5pHM&list=PL6ynPcXXvDY-dMil96IHEI8wvHO3MmQc1)
 
 ### Assets
 
--
+- [Craftpix](https://craftpix.net/?s=endless+runner)
+- [Game Art 2D](https://www.gameart2d.com/#gsc.tab=0&gsc.q=endless%20runner&gsc.sort=)
+- [Itch.io](https://itch.io/game-assets/tag-endless-runner)
+- [OpenGameArt](https://opengameart.org/art-search?keys=runner)
+- [Unity AssetStore](https://assetstore.unity.com/search#q=endless%20runner)
 
 ## Deliverables
 

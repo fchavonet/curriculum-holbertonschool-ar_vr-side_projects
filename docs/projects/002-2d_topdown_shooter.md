@@ -48,7 +48,7 @@ The project should focus heavily on gameplay feedback and game feel.
 
 #### Arcade shooter foundations
 
-- [Geometry Wars (2003)]()
+- [Geometry Wars (2003)](https://www.youtube.com/watch?v=qDDIYHDk5mo)
 ![Geometry Wars screenshot](../../assets/images/2d_topdown_shooter/inspiration/geometry_wars.webp)
 
     - Fast-paced arcade gameplay.
@@ -58,7 +58,7 @@ The project should focus heavily on gameplay feedback and game feel.
 
 #### Enemy density & combat intensity
 
-- [Enter the Gungeon (2016)]()
+- [Enter the Gungeon (2016)](https://www.youtube.com/watch?v=YSpo2VvN0SM)
 ![Enter the Gungeon screenshot](../../assets/images/2d_topdown_shooter/inspiration/enter_the_gungeon.webp)
 
     - Bullet pattern design.
@@ -68,7 +68,7 @@ The project should focus heavily on gameplay feedback and game feel.
 
 #### Modern indie polish
 
-- [Hades (2020)]()
+- [Hades (2020)](https://www.youtube.com/watch?v=91t0ha9x0AE)
 ![Hades screenshot](../../assets/images/2d_topdown_shooter/inspiration/hades.webp)
 
     - Responsive combat systems.
