@@ -62,19 +62,19 @@ Fast-paced arcade shooter focused on gameplay responsiveness, enemy systems and 
 
 Mobile-oriented endless runner prototype focused on procedural systems and optimization.
 
-<p align="right"><a href="./projects/003-infinite_runner.md">PROJECT DOCUMENTATION</a>
+<p align="right"><a href="./projects/003-3d_infinite_runner.md">PROJECT DOCUMENTATION</a>
 
 ### 4. 3D FPS aim trainer
 
 First-person gameplay prototype focused on precision shooting systems, raycasting and player metrics.
 
-<p align="right"><a href="./projects/004-fps_aim_trainer.md">PROJECT DOCUMENTATION</a>
+<p align="right"><a href="./projects/004-3d_fps_aim_trainer.md">PROJECT DOCUMENTATION</a>
 
-### 5. 3D traversal / parkour sandbox
+### 5. 3D TPS sandbox
 
 Advanced movement sandbox focused on traversal mechanics, verticality and gameplay fluidity.
 
-<p align="right"><a href="./projects/005-traversal_sandbox.md">PROJECT DOCUMENTATION</a>
+<p align="right"><a href="./projects/005-3d_tps_sandbox.md">PROJECT DOCUMENTATION</a>
 
 ## Technical stack
 

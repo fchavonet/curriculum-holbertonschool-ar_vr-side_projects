@@ -1,4 +1,4 @@
-# 3D traversal / parkour sandbox
+# 3D TPS sandbox
 
 ## Description
 
