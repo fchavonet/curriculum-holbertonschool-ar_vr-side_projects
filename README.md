@@ -8,7 +8,7 @@ This repository contains a collection of side projects designed for the AR/VR Ho
 
 The goal of these projects is to introduce students to modern game development workflows through practical prototypes focused on gameplay systems, interaction design, player feedback and technical experimentation.
 
-For complete curriculum details, pedagogical goals and project organization, please refer to the [curriculum proposal](./docs/curriculum-proposal.md) document.
+For complete curriculum details, pedagogical goals and project organization, please refer to the [curriculum proposal](./docs/curriculum-proposal.md) document or visit the [project presentation website](https://fchavonet.github.io/curriculum-holbertonschool-ar_vr-side_projects/).
 
 ## File Description
 
