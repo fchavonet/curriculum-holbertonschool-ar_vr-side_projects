@@ -77,7 +77,7 @@ The goal is not to create a complete game, but to produce a polished and playabl
 
 #### Indie & small-scale project inspiration
 
-- [Celeste](https://maddymakesgamesinc.itch.io/celeste) (oui, oui 😉)
+- [Celeste](https://maddymakesgamesinc.itch.io/celeste) (oui, oui, ça a commencé sur [Itch.io](https://itch.io/) 😉)
 - [Deepest Sword](https://cosmicadventuresquad.itch.io/deepest-sword)
 - [Little Runmo](https://juhosprite.itch.io/little-runmo)
 - [Moss Moss](https://noelcody.itch.io/moss-moss)
