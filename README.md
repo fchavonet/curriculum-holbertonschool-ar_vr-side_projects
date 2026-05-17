@@ -1,6 +1,6 @@
 <img height="50" align="right" src="https://raw.githubusercontent.com/fchavonet/fchavonet/refs/heads/main/assets/images/logo-holberton_school.webp" alt="Holberton School logo">
 
-# Curriculum Holberton School - AR/VR : side projects
+# Curriculum Holberton School <br> AR/VR : side projects
 
 ## Description
 
