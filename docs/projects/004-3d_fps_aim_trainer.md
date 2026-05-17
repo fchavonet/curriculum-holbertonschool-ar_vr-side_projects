@@ -47,7 +47,7 @@ The focus is precision, responsiveness and gameplay metrics.
 #### Historical foundations of FPS gameplay
 
 - [GoldenEye 007 (1997)](https://www.youtube.com/watch?v=Z5oTkVsTZdI)
-![](../../assets/images/3d_fps_aim_trainer/inspiration/goldeneye.webp)
+![GoldenEye 007 screenshot](../../assets/images/3d_fps_aim_trainer/inspiration/goldeneye.webp)
 
     - One of the first major console FPS games.
     - Introduced accessible FPS controls to a mainstream audience.
@@ -57,7 +57,7 @@ The focus is precision, responsiveness and gameplay metrics.
 #### Modern competitive FPS foundations
 
 - [Counter-Strike 2 (2023)](https://www.youtube.com/watch?v=c80dVYcL69E)
-![](../../assets/images/3d_fps_aim_trainer/inspiration/counter_strike_2.webp)
+![Counter-Strike 2 screenshot](../../assets/images/3d_fps_aim_trainer/inspiration/counter_strike_2.webp)
 
     - Precision-focused gunplay.
     - Competitive aiming fundamentals.
@@ -67,7 +67,7 @@ The focus is precision, responsiveness and gameplay metrics.
 #### Modern aim training reference
 
 - [KovaaK's (2018)](https://www.youtube.com/watch?v=F8NABucEvsU)
-![](../../assets/images/3d_fps_aim_trainer/inspiration/kivaaks.webp)
+![KovaaK's screenshot](../../assets/images/3d_fps_aim_trainer/inspiration/kivaaks.webp)
 
     - Industry-standard aim training application.
     - Advanced statistics and precision tracking.

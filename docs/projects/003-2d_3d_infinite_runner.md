@@ -49,7 +49,7 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 #### Endless runner foundations
 
 - [Temple Run (2011 -> Horizontal runner)](https://www.youtube.com/watch?v=TuGv1WIyUK4)
-![](../../assets/images/2d_3d_infinite_runner/inspiration/temple_run.webp)
+![Temple Run screenshot](../../assets/images/2d_3d_infinite_runner/inspiration/temple_run.webp)
 
     - Endless gameplay structure.
     - Mobile-oriented controls.
@@ -59,7 +59,7 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 #### 2D gameplay readability & progression systems
 
 - [Alto's Adventure (2015 -> Vertical runner)](https://www.youtube.com/watch?v=jzvU3jOTL3s)
-![](../../assets/images/2d_3d_infinite_runner/inspiration/altos_adventure.webp)
+![Alto's Adventure screenshot](../../assets/images/2d_3d_infinite_runner/inspiration/altos_adventure.webp)
 
     - Minimalist visual design.
     - Smooth gameplay pacing.
@@ -70,7 +70,7 @@ The focus of the project is accessibility, optimization and mobile gameplay read
 #### Modern 3D mobile polish
 
 - [Crash Bandicoot: On the Run! (2021 -> Horizontal runner)](https://www.youtube.com/watch?v=eCFo_yrME8A&list=PLGtZwVE-T07t0rznG1uEer3bVwFdGGNm_)
-![](../../assets/images/2d_3d_infinite_runner/inspiration/crash_on_the_run!.webp)
+![Crash Bandicoot: On the Run! screenshot](../../assets/images/2d_3d_infinite_runner/inspiration/crash_on_the_run!.webp)
 
     - Modern mobile presentation.
     - Dynamic environments.

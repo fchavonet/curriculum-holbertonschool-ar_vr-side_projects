@@ -40,13 +40,55 @@ The project should emphasize movement fluidity and level readability.
 - Parkour combo system.
 - Speedrun timer.
 
-## Suggested Resources
+## Learning resources
 
 ### Inspiration
 
+#### Historical foundations of traversal gameplay
+
+[Tomb Raider (1996)]()
+![Tomb Raider screenshot](../../assets/images/3d_tps_sandbox/inspiration/tomb_raider.webp)
+
+    - Early third-person traversal gameplay.
+    - Environmental navigation and climbing systems.
+    - Vertical exploration design.
+    - Foundation of modern traversal-oriented games.
+
+#### Cinematic traversal & environmental interaction
+
+[Uncharted 4: A Thief's End (2016)]()
+![Uncharted 4 screenshot](../../assets/images/3d_tps_sandbox/inspiration/uncharted_4.webp)
+
+    - Cinematic traversal systems.
+    - Advanced climbing and vaulting mechanics.
+    - Smooth gameplay-to-animation transitions.
+    - Strong environmental readability and pacing.
+
+#### Movement fluidity & sandbox traversal
+
+[Marvel's Spider-Man Remastered (2022)]()
+![Marvel's Spider-Man Remastered screenshot](../../assets/images/3d_tps_sandbox/inspiration/marvels_spider-man_remastered.webp)
+
+    - Momentum-based traversal systems.
+    - Responsive player movement.
+    - Strong camera management.
+    - Open traversal sandbox design.
+
 ### Tutorials
 
+- [Create a 3rd person controller in Unity](https://www.youtube.com/playlist?list=PLD_vBJjpCwJsqpD8QRPNPMfVUpPFLVGg4)
+- [Créer un contrôleur à la troisième personne dans Unity à partir de zéro](https://www.youtube.com/watch?v=DXw9QhsjlME)
+- [Making Survival-shooter game in Unity](https://www.youtube.com/playlist?list=PLDVrbPbYnQv1zhgBmFKX7rWCtw7fBaj9I)
+- [Mettre en place n'importe quel personnage à la troisième personne](https://www.youtube.com/watch?v=V63_SvI5yY4)
+- [Unity 3D TPS controller](https://www.youtube.com/playlist?list=PLVko8yLzEsQJRX18_SuS3DhVbD-D4WRDz)
+
 ### Assets
+
+- [Craftpix](https://craftpix.net/categorys/3d-game-assets/)
+- [Game Art 2D](https://www.gameart2d.com/#gsc.tab=0&gsc.q=3d&gsc.sort=)
+- [Itch.io](https://itch.io/game-assets/tag-third-person-shooter)
+- [OpenGameArt](https://opengameart.org/art-search?keys=third+person)
+- [Unity AssetStore](https://assetstore.unity.com/search#q=third%20person)
 
 ## Deliverables
 
